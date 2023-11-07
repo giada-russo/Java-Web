@@ -1,5 +1,6 @@
 package Giocattolaio;
 
+
 public class Main {
     public static void main(String args[]){ 
     // Creo oggetti Giocattolo

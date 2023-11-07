@@ -1,4 +1,5 @@
 package Giocattolaio;
+
 public class Vendita {
     private int idVendita;
     private Cliente cliente1;
