@@ -22,7 +22,7 @@ public class Vendita {
     }
 
     public void setIdVendita(int idVendita){
-        this.idVendita=idVendita;
+        this.idVendita=idVendita; 
     }
     public void setCliente1(Cliente cliente1){
         this.cliente1=cliente1;

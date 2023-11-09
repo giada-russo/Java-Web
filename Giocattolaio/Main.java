@@ -3,6 +3,9 @@ package Giocattolaio;
 
 public class Main {
     public static void main(String args[]){ 
+    //test per il merge
+    System.out.println("Ciao mondo!");
+
     // Creo oggetti Giocattolo
     Giocattolo giocattolo1 = new Giocattolo(1, "Macchinina", 50, 6);
     Giocattolo giocattolo2 = new Giocattolo(2, "Bambola", 15, 4);
