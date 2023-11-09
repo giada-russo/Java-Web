@@ -13,6 +13,6 @@ public class Main {
     // Creo oggetti Cliente
     Cliente cliente1 = new Cliente(1, "Mario Rossi", "mariorossi@email.com");
     Cliente cliente2 = new Cliente(2, "Sofia Bianchi", "sofiabianchi@email.com");
-
+        System.out.println("Ciao");
 }
 }
